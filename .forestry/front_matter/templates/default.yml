@@ -17,6 +17,6 @@ fields:
   name: article
   label: article
   config:
-    required: true
+    required: false
 pages:
 - _posts/not-at-all-a-little-bit-moderately-quite-a-bit-extremely.md
