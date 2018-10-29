@@ -8,6 +8,11 @@ fields:
   name: title
   config:
     required: true
+- type: datetime
+  label: publish date
+  name: publish_date
+  config:
+    required: true
 - type: textarea
   name: article
   label: article
