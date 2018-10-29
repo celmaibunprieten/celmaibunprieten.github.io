@@ -1,0 +1,15 @@
+---
+label: default
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: title
+  name: title
+  config:
+    required: true
+- type: textarea
+  name: article
+  label: article
+  config:
+    required: true
