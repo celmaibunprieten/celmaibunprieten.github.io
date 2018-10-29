@@ -13,3 +13,5 @@ fields:
   label: article
   config:
     required: true
+pages:
+- _posts/hello-2.md
