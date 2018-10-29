@@ -14,4 +14,4 @@ fields:
   config:
     required: true
 pages:
-- _posts/hello-2.md
+- _posts/2018-10-29-hello-2.md
