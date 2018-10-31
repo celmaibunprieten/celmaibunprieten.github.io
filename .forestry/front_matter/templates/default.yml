@@ -19,4 +19,5 @@ fields:
   config:
     required: false
 pages:
+- _posts/running-from-wolves.md
 - _posts/2018-10-29-not-at-all-a-little-bit-moderately-quite-a-bit-extremely.md
